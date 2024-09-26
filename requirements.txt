@@ -1,0 +1,5 @@
+kubernetes==26.1.0        # Para interactuar con la API de Kubernetes
+notion-client==2.0.0      # Para interactuar con la API de Notion
+click==8.1.3              # Para la creación de la interfaz de línea de comandos (CLI)
+python-dotenv==1.0.0      # Para cargar variables de entorno desde un archivo .env (opcional pero recomendado)
+psutil==5.9.5  # Para manejar procesos en segundo plano
